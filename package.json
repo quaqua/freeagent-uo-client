@@ -1,0 +1,24 @@
+{
+  "name": "freeagent-uo-client",
+  "version": "0.1.0",
+  "description": "simple unofficial client library using superagent to connect to freeagent.com",
+  "private": false,
+  "main": "index.coffee",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --recursive --compilers coffee:coffee-script/register --bail"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.6",
+    "coffee-script": "^1.9.0",
+    "lodash": "^3.1.0",
+    "moment": "^2.9.0",
+    "superagent-promise": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/quaqua/freeagent-uo-client.git"
+  },
+  "author": "quaqua",
+  "license": "MIT"
+}
