@@ -1,6 +1,6 @@
 {
   "name": "freeagent-uo-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple unofficial client library using superagent to connect to freeagent.com",
   "private": false,
   "main": "index.coffee",
