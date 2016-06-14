@@ -12,6 +12,8 @@
     "coffee-script": "^1.9.0",
     "lodash": "^3.1.0",
     "moment": "^2.9.0",
+    "promise": "^7.1.1",
+    "superagent": "^2.0.0",
     "superagent-promise": "^0.2.0"
   },
   "devDependencies": {},
